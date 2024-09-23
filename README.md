@@ -29,7 +29,11 @@ where first column denotes image name, and remaining as keypoints i.e
 ```
 X1, Y1, X2, Y2, X3, Y3, ..., X68, Y68
 ```
- 
+
+## 
+
+## Training and Test loss curve
+![Alt text](/Users/romankasichhwa/Desktop/Facial_key_points/Saved/version2/train_curve.png)
 
 
 
