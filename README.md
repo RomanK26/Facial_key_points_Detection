@@ -25,12 +25,12 @@ The structure of csv file is
 ```
 Luis_Fonsi_21.jpg,45.0,98.0,47.0,106.0,49.0,110.0,53.0,119.0...
 ``` 
-where first column denotes image name, and remaining 
+where first column denotes image name, and remaining as keypoints i.e
 ```
 X1, Y1, X2, Y2, X3, Y3, ..., X68, Y68
 ```
- as keypoints
  
+
 
 
 
