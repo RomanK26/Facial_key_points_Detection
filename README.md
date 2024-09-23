@@ -33,7 +33,7 @@ X1, Y1, X2, Y2, X3, Y3, ..., X68, Y68
 ## 
 
 ## Training and Test loss curve
-![Alt text](/Users/romankasichhwa/Desktop/Facial_key_points/Saved/version2/train_curve.png)
+![Alt text](https://github.com/RomanK26/Facial_key_points_Detection/blob/main/Saved/version2/train_curve.png)
 
 
 
